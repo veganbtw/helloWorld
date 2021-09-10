@@ -1,0 +1,16 @@
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\bin\Debug\net5.0\helloWorld.exe
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\bin\Debug\net5.0\helloWorld.deps.json
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\bin\Debug\net5.0\helloWorld.runtimeconfig.json
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\bin\Debug\net5.0\helloWorld.runtimeconfig.dev.json
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\bin\Debug\net5.0\helloWorld.dll
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\bin\Debug\net5.0\ref\helloWorld.dll
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\bin\Debug\net5.0\helloWorld.pdb
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.csproj.AssemblyReference.cache
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.AssemblyInfoInputs.cache
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.AssemblyInfo.cs
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.csproj.CoreCompileInputs.cache
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.dll
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\ref\helloWorld.dll
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.pdb
+C:\Users\fthom\Desktop\BDSA\Projects\Ass00\HelloWorld\helloWorld\obj\Debug\net5.0\helloWorld.genruntimeconfig.cache
